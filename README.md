@@ -30,8 +30,8 @@ We aim to visualize various aspects of our pizza sales data to gain insights and
 
 ## 📊 Tools & Technologies Used
 
-- **Excel** – For data cleaning and preliminary analysis
-- **Power BI** – For creating interactive visual dashboards
+- **Excel** – For data cleaning and preliminary analysis, and make dashboard
+
 - *(Optional: Add Python or SQL if you used it for data preprocessing)*
 
 ---
@@ -39,12 +39,15 @@ We aim to visualize various aspects of our pizza sales data to gain insights and
 ## 📁 Project Structure
 
 Pizza-Sales-Dashboard/
-├── Data/                # Raw and cleaned datasets
+├── Data/                <a href "https://github.com/rishikeshraut24/Pizza-Sales/blob/main/pizza_sales.csv"</a>
 ├── Charts/              # Screenshots of charts
 ├── Dashboard            # Excel dashboard
-├── Excel_Analysis.xlsx  # Excel workbook with visualizations
+├── Excel_Analysis.xlsx  <a href"https://github.com/rishikeshraut24/Pizza-Sales/blob/main/pro_pizza.xlsx"</a>
 └── README.md            # Project overview
+
+
 
 ## Dashboard
 ![Screenshot 2025-04-29 132555](https://github.com/user-attachments/assets/294dcc0d-da61-471d-bd8c-1db4f9bff780)
+
 
