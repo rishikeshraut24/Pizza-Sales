@@ -1,2 +1,50 @@
-# Pizza-Sales
-Project Objectives: The analysis addresses the following business questions: Daily Trend for Total Orders A bar chart visualizes daily order volumes to detect fluctuations and patterns in customer behavior.Hourly Trend for Total Orders A line chart displays hourly order trends to identify peak hours and high activity periods.
+# 🍕 Pizza Sales Data Analysis Dashboard
+
+This project is a data analysis case study focused on exploring various aspects of pizza sales. The goal is to visualize the data to identify key business insights and help stakeholders make better decisions. The project uses data visualization tools like **Excel** and **Power BI** to create interactive dashboards and charts.
+
+---
+
+## 📌 Problem Statement
+
+We aim to visualize various aspects of our pizza sales data to gain insights and understand key trends. The following requirements were identified for chart creation:
+
+### 1️ Daily Trend for Total Orders
+- **Objective**: Identify fluctuations in daily order volumes.
+- **Chart Used**: Bar Chart
+- **Insight**: Helps detect patterns and peak days.
+
+### 2️ Hourly Trend for Total Orders
+- **Objective**: Recognize peak hours of customer activity.
+- **Chart Used**: Line Chart
+- **Insight**: Identifies time periods with highest sales activity.
+
+### 3️ Percentage of Sales by Pizza Category
+- **Objective**: Understand distribution of sales among different pizza types.
+- **Chart Used**: Donut Chart
+- **Insight**: Reveals which categories are most and least popular.
+### 4 Percentage of Sales by Pizza Size
+- **Objective**: Understand distribution of sales among different pizza size.
+- **Chart Used**: Pie Chart
+- **Insight**: Reveals which categories are most and least popular.
+---
+
+## 📊 Tools & Technologies Used
+
+- **Excel** – For data cleaning and preliminary analysis
+- **Power BI** – For creating interactive visual dashboards
+- *(Optional: Add Python or SQL if you used it for data preprocessing)*
+
+---
+
+## 📁 Project Structure
+
+Pizza-Sales-Dashboard/
+├── Data/                # Raw and cleaned datasets
+├── Charts/              # Screenshots of charts
+├── Dashboard            # Excel dashboard
+├── Excel_Analysis.xlsx  # Excel workbook with visualizations
+└── README.md            # Project overview
+
+## Dashboard
+![Screenshot 2025-04-29 132555](https://github.com/user-attachments/assets/294dcc0d-da61-471d-bd8c-1db4f9bff780)
+
